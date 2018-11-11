@@ -1,3 +1,11 @@
 page-home {
-
+.block {
+  position:relative;
+  .deleteicon {
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 5px;
+    color: #FFFFFF;
+  }
+}
 }
